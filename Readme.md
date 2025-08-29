@@ -8,7 +8,7 @@ This project demonstrates smooth scroll-based animations and interactive UI tran
 ## 🚀 Features  
 - ✨ Smooth scrolling with creative animations  
 - 🎬 ScrollTrigger effects for section-based transitions  
-- 🎨 Fully animated homepage, about, and project sections  
+- 🎨 Fully animated homepage, about, menu and contact sections. 
 - ⚡ Fast, lightweight scrolling experience  
 - 🧑‍💻 Beginner-friendly clean code structure  
 
